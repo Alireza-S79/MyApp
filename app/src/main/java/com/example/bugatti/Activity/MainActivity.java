@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
     TextView title, pro1, pro2, pro3, intro;
     RelativeLayout prograssbar, error;
 
-    //Conflicts
+    //Conflicts v2
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -97,6 +97,6 @@ public class MainActivity extends AppCompatActivity {
 
        
     }
-    
+
 
 }
