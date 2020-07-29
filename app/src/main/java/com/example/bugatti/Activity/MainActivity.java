@@ -25,6 +25,8 @@ public class MainActivity extends AppCompatActivity {
     TextView title, pro1, pro2, pro3, intro;
     RelativeLayout prograssbar, error;
 
+    //New Line
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
