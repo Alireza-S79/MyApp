@@ -96,4 +96,6 @@ public class MainActivity extends AppCompatActivity {
         pro3.setText(body.get("property").getAsJsonArray().get(2).getAsString());
         intro.setText(body.get("intro").getAsString());
     }
+
+    //Hello World
 }
