@@ -97,5 +97,4 @@ public class MainActivity extends AppCompatActivity {
         intro.setText(body.get("intro").getAsString());
     }
 
-    //Hello World
 }
