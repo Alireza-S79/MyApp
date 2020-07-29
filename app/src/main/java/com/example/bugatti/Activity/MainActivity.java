@@ -25,8 +25,7 @@ public class MainActivity extends AppCompatActivity {
     TextView title, pro1, pro2, pro3, intro;
     RelativeLayout prograssbar, error;
 
-    //New Line
-
+    //Conflicts
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -96,12 +95,8 @@ public class MainActivity extends AppCompatActivity {
         pro3.setText(body.get("property").getAsJsonArray().get(2).getAsString());
         intro.setText(body.get("intro").getAsString());
 
-        set();
        
     }
     
- public void set(){
- // 123456789
- }
 
 }
